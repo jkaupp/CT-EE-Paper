@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 1 - Ennis typology of critical thinking instruction
