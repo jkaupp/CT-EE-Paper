@@ -1,1 +1,1 @@
-Replace this text with your caption
+Proposed framework for critical thinking in engineering.
