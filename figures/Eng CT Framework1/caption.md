@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 2: Proposed framework for critical thinking in engineering
