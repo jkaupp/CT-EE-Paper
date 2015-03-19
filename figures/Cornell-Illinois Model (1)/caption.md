@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 4: The Cornell-Illinois Model of Critical Thinking
