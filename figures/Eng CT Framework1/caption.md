@@ -1,1 +1,1 @@
-Figure 2: Proposed framework for critical thinking in engineering
+Figure 3: Proposed framework for critical thinking in engineering
