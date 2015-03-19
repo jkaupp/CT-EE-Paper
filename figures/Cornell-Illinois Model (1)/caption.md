@@ -1,1 +1,1 @@
-Figure 4: The Cornell-Illinois Model of Critical Thinking
+Figure 4: The Cornell-Illinois framework of Critical Thinking
