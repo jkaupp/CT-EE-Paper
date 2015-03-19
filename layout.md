@@ -13,3 +13,4 @@ ICT.tex
 figures/Paul-Elder Model (1)/Paul-Elder Model (1).png
 CLA+.tex
 figures/CLA Model (1)/CLA Model (1).png
+CLA+ 2.tex
