@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 5: The Paul-Elder framework of critical thinking
