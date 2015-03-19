@@ -6,3 +6,4 @@ figures/Eng CT Framework1/Eng CT Framework1.png
 Op Def 2.tex
 Assessments.tex
 figures/Discussion Framework1/Discussion Framework1.png
+Cornell.tex
