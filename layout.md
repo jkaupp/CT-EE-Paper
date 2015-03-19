@@ -11,3 +11,4 @@ figures/Cornell-Illinois Model (1)/Cornell-Illinois Model (1).png
 Cornell 2.tex
 ICT.tex
 figures/Paul-Elder Model (1)/Paul-Elder Model (1).png
+CLA+.tex
