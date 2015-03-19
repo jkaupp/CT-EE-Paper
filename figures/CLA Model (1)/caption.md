@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 6: The CLA/CLA+ holistic conception of critical thinking
