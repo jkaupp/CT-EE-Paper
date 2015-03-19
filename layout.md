@@ -18,3 +18,4 @@ CLA+ 2.tex
 CAT.tex
 CAT2.tex
 VALUE .tex
+MEAs.tex
