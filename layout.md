@@ -4,7 +4,6 @@ Intro part 2.tex
 Operational Definition.tex
 figures/Eng CT Framework1/Eng CT Framework1.png
 Op Def 2.tex
-figures/Eng CT Framework Elements 3/Eng CT Framework Elements 3.png
 figures/Eng CT Framework Elements 1/Eng CT Framework Elements 1.png
 Assessments.tex
 figures/Discussion Framework1/Discussion Framework1.png
