@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 3 - Contributing elements to the developed framework describing critical thinking in engineering.
