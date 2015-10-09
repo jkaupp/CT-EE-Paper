@@ -5,6 +5,7 @@ Operational Definition.tex
 figures/Eng CT Framework1/Eng CT Framework1.png
 It_draws_from_the_substantial__.md
 figures/Eng CT Framework Elements 8/Eng CT Framework Elements 8.png
+figures/Eng CT Framework Elements 9/Eng CT Framework Elements 9.png
 Op Def 2.tex
 Assessments.tex
 figures/Discussion Framework1/Discussion Framework1.png
