@@ -5,6 +5,7 @@ Operational Definition.tex
 figures/Eng CT Framework1/Eng CT Framework1.png
 Op Def 2.tex
 Assessments.tex
+figures/Eng CT Framework Elements 4/Eng CT Framework Elements 4.png
 figures/Discussion Framework1/Discussion Framework1.png
 Cornell.tex
 figures/Cornell-Illinois Model (1)/Cornell-Illinois Model (1).png
