@@ -18,6 +18,7 @@ ICT 2.tex
 CLA+.tex
 figures/CLA Model (1)/CLA Model (1).png
 CLA+ 2.tex
+subsection_Critique_of_The_Collegiate__.md
 CAT.tex
 CAT2.tex
 VALUE .tex
